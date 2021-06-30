@@ -24,7 +24,7 @@ Based on it I revisited the code.
 If interested in the changes and what motivated them, I invite
 you to red the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/07/01/the-full-counting-sort-issue-resolved/
 
 One of the best ways to learn is to read and experiment.
 Remember that practice makes perfect.
